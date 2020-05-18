@@ -1,0 +1,16 @@
+PODS:
+  - FGLogger (0.0.1)
+
+DEPENDENCIES:
+  - FGLogger (from `../`)
+
+EXTERNAL SOURCES:
+  FGLogger:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FGLogger: 7a24b293309c2f44356fa6d434d1da350d750232
+
+PODFILE CHECKSUM: f2befeda7040b4bcc6d26ac8b5e9a721ba3127ed
+
+COCOAPODS: 1.9.1

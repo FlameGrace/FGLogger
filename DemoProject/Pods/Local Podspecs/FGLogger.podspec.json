@@ -1,0 +1,26 @@
+{
+  "name": "FGLogger",
+  "version": "0.0.1",
+  "summary": "A local logger for iOS.",
+  "homepage": "https://github.com/FlameGrace/FGLogger",
+  "license": {
+    "type": "Apache",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FlameGrace": "flamegrace@hotmail.com"
+  },
+  "platforms": {
+    "ios": "8.0",
+    "osx": "10.9"
+  },
+  "source": {
+    "git": "https://github.com/FlameGrace/FGLogger.git",
+    "tag": "0.0.5"
+  },
+  "source_files": [
+    "Classes",
+    "Classes/**/*.{h,m}"
+  ],
+  "public_header_files": "Classes/**/*.h"
+}
