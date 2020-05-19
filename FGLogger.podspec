@@ -8,14 +8,13 @@
 
 Pod::Spec.new do |s|
   s.name         = "FGLogger"
-  s.version      = "0.0.1"
+  s.version      = "0.0.3"
   s.summary      = "A local logger for iOS."
   s.homepage     = "https://github.com/FlameGrace/FGLogger"
   s.license      = { :type => "Apache", :file => "LICENSE" }
   s.author             = { "FlameGrace" => "flamegrace@hotmail.com" }
   s.ios.deployment_target = "8.0"
-  s.osx.deployment_target = "10.9"
-  s.source       = { :git => "https://github.com/FlameGrace/FGLogger.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/FlameGrace/FGLogger.git", :tag => "0.0.3" }
   s.source_files  = "Classes", "Classes/**/*.{h,m}"
   s.public_header_files = "Classes/**/*.h"
 end
