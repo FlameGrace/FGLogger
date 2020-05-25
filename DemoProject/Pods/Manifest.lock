@@ -1,5 +1,9 @@
 PODS:
-  - FGLogger (0.0.1)
+  - FGLogger (0.0.4):
+    - FGLogger/Application (= 0.0.4)
+    - FGLogger/Logger (= 0.0.4)
+  - FGLogger/Application (0.0.4)
+  - FGLogger/Logger (0.0.4)
 
 DEPENDENCIES:
   - FGLogger (from `../`)
@@ -9,7 +13,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FGLogger: 7a24b293309c2f44356fa6d434d1da350d750232
+  FGLogger: 05d957be0847e4e05965ac3f72d26e01ff706627
 
 PODFILE CHECKSUM: f2befeda7040b4bcc6d26ac8b5e9a721ba3127ed
 

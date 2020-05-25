@@ -2,7 +2,7 @@
 //  FGLog.h
 //  FGLog
 //
-//  Created by 周浩冉 on 2020/3/26.
+//  Created by Flame Grace on 2020/3/26.
 //
 
 #import <Foundation/Foundation.h>

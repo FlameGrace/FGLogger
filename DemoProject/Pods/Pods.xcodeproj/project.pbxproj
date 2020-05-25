@@ -7,28 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		46EB2E00000290 /* FGLog.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E000000E0 /* FGLog.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
-		46EB2E000002A0 /* FGFileContext.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00000110 /* FGFileContext.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
-		46EB2E000002B0 /* FGPrintFolderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00000130 /* FGPrintFolderViewController.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
-		46EB2E000002C0 /* FGPrintLogViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00000150 /* FGPrintLogViewController.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
-		46EB2E000002D0 /* FGLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00000180 /* FGLogger.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
-		46EB2E000002E0 /* FGLoggerComponent.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E000001A0 /* FGLoggerComponent.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
-		46EB2E000002F0 /* FGSingleRunLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E000001C0 /* FGSingleRunLogger.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
-		46EB2E00000300 /* FGTTYLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E000001E0 /* FGTTYLogger.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
-		46EB2E00000310 /* FGLog.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E000000D0 /* FGLog.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		46EB2E00000320 /* FGFileContext.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00000100 /* FGFileContext.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		46EB2E00000330 /* FGPrintFolderViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00000120 /* FGPrintFolderViewController.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		46EB2E00000340 /* FGPrintLogViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00000140 /* FGPrintLogViewController.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		46EB2E00000350 /* FGLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00000170 /* FGLogger.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		46EB2E00000360 /* FGLoggerComponent.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00000190 /* FGLoggerComponent.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		46EB2E00000370 /* FGSingleRunLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E000001B0 /* FGSingleRunLogger.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		46EB2E00000380 /* FGTTYLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E000001D0 /* FGTTYLogger.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		46EB2E000003E0 /* FGLogger-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E000003D0 /* FGLogger-dummy.m */; };
-		46EB2E000004D0 /* Pods-DemoProject-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E000004C0 /* Pods-DemoProject-dummy.m */; };
+		46EB2E000002B0 /* FGLog.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E000000E0 /* FGLog.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
+		46EB2E000002C0 /* FGLog.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E000000D0 /* FGLog.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		46EB2E000002D0 /* FGFileContext.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00000110 /* FGFileContext.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
+		46EB2E000002E0 /* FGPrintFolderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00000130 /* FGPrintFolderViewController.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
+		46EB2E000002F0 /* FGPrintLogViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00000150 /* FGPrintLogViewController.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
+		46EB2E00000300 /* FGFileContext.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00000100 /* FGFileContext.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		46EB2E00000310 /* FGPrintFolderViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00000120 /* FGPrintFolderViewController.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		46EB2E00000320 /* FGPrintLogViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00000140 /* FGPrintLogViewController.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		46EB2E00000330 /* FGLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E00000180 /* FGLogger.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
+		46EB2E00000340 /* FGLoggerComponent.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E000001A0 /* FGLoggerComponent.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
+		46EB2E00000350 /* FGSingleRunLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E000001C0 /* FGSingleRunLogger.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
+		46EB2E00000360 /* FGTTYLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E000001E0 /* FGTTYLogger.m */; settings = {COMPILER_FLAGS = "-w -Xanalyzer -analyzer-disable-all-checks"; }; };
+		46EB2E00000370 /* FGLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00000170 /* FGLogger.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		46EB2E00000380 /* FGLoggerComponent.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E00000190 /* FGLoggerComponent.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		46EB2E00000390 /* FGSingleRunLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E000001B0 /* FGSingleRunLogger.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		46EB2E000003A0 /* FGTTYLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = 46EB2E000001D0 /* FGTTYLogger.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		46EB2E00000400 /* FGLogger-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E000003F0 /* FGLogger-dummy.m */; };
+		46EB2E000004F0 /* Pods-DemoProject-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 46EB2E000004E0 /* Pods-DemoProject-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		46EB2E000004E0 /* PBXContainerItemProxy */ = {
+		46EB2E00000500 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 46EB2E00000000 /* Project object */;
 			proxyType = 1;
@@ -42,42 +42,44 @@
 		46EB2E000000C0 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		46EB2E000000D0 /* FGLog.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FGLog.h; path = Classes/FGLog.h; sourceTree = "<group>"; };
 		46EB2E000000E0 /* FGLog.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FGLog.m; path = Classes/FGLog.m; sourceTree = "<group>"; };
-		46EB2E00000100 /* FGFileContext.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FGFileContext.h; sourceTree = "<group>"; };
-		46EB2E00000110 /* FGFileContext.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FGFileContext.m; sourceTree = "<group>"; };
-		46EB2E00000120 /* FGPrintFolderViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FGPrintFolderViewController.h; sourceTree = "<group>"; };
-		46EB2E00000130 /* FGPrintFolderViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FGPrintFolderViewController.m; sourceTree = "<group>"; };
-		46EB2E00000140 /* FGPrintLogViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FGPrintLogViewController.h; sourceTree = "<group>"; };
-		46EB2E00000150 /* FGPrintLogViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FGPrintLogViewController.m; sourceTree = "<group>"; };
-		46EB2E00000170 /* FGLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FGLogger.h; sourceTree = "<group>"; };
-		46EB2E00000180 /* FGLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FGLogger.m; sourceTree = "<group>"; };
-		46EB2E00000190 /* FGLoggerComponent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FGLoggerComponent.h; sourceTree = "<group>"; };
-		46EB2E000001A0 /* FGLoggerComponent.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FGLoggerComponent.m; sourceTree = "<group>"; };
-		46EB2E000001B0 /* FGSingleRunLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FGSingleRunLogger.h; sourceTree = "<group>"; };
-		46EB2E000001C0 /* FGSingleRunLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FGSingleRunLogger.m; sourceTree = "<group>"; };
-		46EB2E000001D0 /* FGTTYLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FGTTYLogger.h; sourceTree = "<group>"; };
-		46EB2E000001E0 /* FGTTYLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = FGTTYLogger.m; sourceTree = "<group>"; };
+		46EB2E00000100 /* FGFileContext.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FGFileContext.h; path = Classes/Application/FGFileContext.h; sourceTree = "<group>"; };
+		46EB2E00000110 /* FGFileContext.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FGFileContext.m; path = Classes/Application/FGFileContext.m; sourceTree = "<group>"; };
+		46EB2E00000120 /* FGPrintFolderViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FGPrintFolderViewController.h; path = Classes/Application/FGPrintFolderViewController.h; sourceTree = "<group>"; };
+		46EB2E00000130 /* FGPrintFolderViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FGPrintFolderViewController.m; path = Classes/Application/FGPrintFolderViewController.m; sourceTree = "<group>"; };
+		46EB2E00000140 /* FGPrintLogViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FGPrintLogViewController.h; path = Classes/Application/FGPrintLogViewController.h; sourceTree = "<group>"; };
+		46EB2E00000150 /* FGPrintLogViewController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FGPrintLogViewController.m; path = Classes/Application/FGPrintLogViewController.m; sourceTree = "<group>"; };
+		46EB2E00000170 /* FGLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FGLogger.h; path = Classes/Logger/FGLogger.h; sourceTree = "<group>"; };
+		46EB2E00000180 /* FGLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FGLogger.m; path = Classes/Logger/FGLogger.m; sourceTree = "<group>"; };
+		46EB2E00000190 /* FGLoggerComponent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FGLoggerComponent.h; path = Classes/Logger/FGLoggerComponent.h; sourceTree = "<group>"; };
+		46EB2E000001A0 /* FGLoggerComponent.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FGLoggerComponent.m; path = Classes/Logger/FGLoggerComponent.m; sourceTree = "<group>"; };
+		46EB2E000001B0 /* FGSingleRunLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FGSingleRunLogger.h; path = Classes/Logger/FGSingleRunLogger.h; sourceTree = "<group>"; };
+		46EB2E000001C0 /* FGSingleRunLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FGSingleRunLogger.m; path = Classes/Logger/FGSingleRunLogger.m; sourceTree = "<group>"; };
+		46EB2E000001D0 /* FGTTYLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FGTTYLogger.h; path = Classes/Logger/FGTTYLogger.h; sourceTree = "<group>"; };
+		46EB2E000001E0 /* FGTTYLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = FGTTYLogger.m; path = Classes/Logger/FGTTYLogger.m; sourceTree = "<group>"; };
 		46EB2E00000200 /* FGLogger.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = FGLogger.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		46EB2E000003A0 /* FGLogger.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FGLogger.debug.xcconfig; sourceTree = "<group>"; };
-		46EB2E000003B0 /* FGLogger.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FGLogger.release.xcconfig; sourceTree = "<group>"; };
-		46EB2E000003C0 /* FGLogger-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FGLogger-prefix.pch"; sourceTree = "<group>"; };
-		46EB2E000003D0 /* FGLogger-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FGLogger-dummy.m"; sourceTree = "<group>"; };
-		46EB2E00000480 /* Pods-DemoProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DemoProject.release.xcconfig"; sourceTree = "<group>"; };
-		46EB2E00000490 /* Pods-DemoProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DemoProject.debug.xcconfig"; sourceTree = "<group>"; };
-		46EB2E000004A0 /* Pods-DemoProject-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DemoProject-acknowledgements.plist"; sourceTree = "<group>"; };
-		46EB2E000004B0 /* Pods-DemoProject-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DemoProject-acknowledgements.markdown"; sourceTree = "<group>"; };
-		46EB2E000004C0 /* Pods-DemoProject-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DemoProject-dummy.m"; sourceTree = "<group>"; };
+		46EB2E00000210 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		46EB2E00000220 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		46EB2E000003C0 /* FGLogger.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FGLogger.debug.xcconfig; sourceTree = "<group>"; };
+		46EB2E000003D0 /* FGLogger.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = FGLogger.release.xcconfig; sourceTree = "<group>"; };
+		46EB2E000003E0 /* FGLogger-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FGLogger-prefix.pch"; sourceTree = "<group>"; };
+		46EB2E000003F0 /* FGLogger-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "FGLogger-dummy.m"; sourceTree = "<group>"; };
+		46EB2E000004A0 /* Pods-DemoProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DemoProject.release.xcconfig"; sourceTree = "<group>"; };
+		46EB2E000004B0 /* Pods-DemoProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DemoProject.debug.xcconfig"; sourceTree = "<group>"; };
+		46EB2E000004C0 /* Pods-DemoProject-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DemoProject-acknowledgements.plist"; sourceTree = "<group>"; };
+		46EB2E000004D0 /* Pods-DemoProject-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DemoProject-acknowledgements.markdown"; sourceTree = "<group>"; };
+		46EB2E000004E0 /* Pods-DemoProject-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DemoProject-dummy.m"; sourceTree = "<group>"; };
 		67858E1610B6C142281A33444ACE18F9 /* libFGLogger.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libFGLogger.a; path = libFGLogger.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		46EB2E00000280 /* Frameworks */ = {
+		46EB2E000002A0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		46EB2E00000460 /* Frameworks */ = {
+		46EB2E00000480 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -117,7 +119,7 @@
 		46EB2E00000070 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E00000470 /* Pods-DemoProject */,
+				46EB2E00000490 /* Pods-DemoProject */,
 			);
 			name = "Targets Support Files";
 			sourceTree = "<group>";
@@ -138,7 +140,7 @@
 				46EB2E000000F0 /* Application */,
 				46EB2E00000160 /* Logger */,
 				46EB2E000001F0 /* Pod */,
-				46EB2E00000390 /* Support Files */,
+				46EB2E000003B0 /* Support Files */,
 			);
 			name = FGLogger;
 			path = ../..;
@@ -155,7 +157,6 @@
 				46EB2E00000150 /* FGPrintLogViewController.m */,
 			);
 			name = Application;
-			path = Classes/Application;
 			sourceTree = "<group>";
 		};
 		46EB2E00000160 /* Logger */ = {
@@ -171,37 +172,38 @@
 				46EB2E000001E0 /* FGTTYLogger.m */,
 			);
 			name = Logger;
-			path = Classes/Logger;
 			sourceTree = "<group>";
 		};
 		46EB2E000001F0 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
 				46EB2E00000200 /* FGLogger.podspec */,
+				46EB2E00000210 /* LICENSE */,
+				46EB2E00000220 /* README.md */,
 			);
 			name = Pod;
 			sourceTree = "<group>";
 		};
-		46EB2E00000390 /* Support Files */ = {
+		46EB2E000003B0 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E000003D0 /* FGLogger-dummy.m */,
-				46EB2E000003C0 /* FGLogger-prefix.pch */,
-				46EB2E000003A0 /* FGLogger.debug.xcconfig */,
-				46EB2E000003B0 /* FGLogger.release.xcconfig */,
+				46EB2E000003F0 /* FGLogger-dummy.m */,
+				46EB2E000003E0 /* FGLogger-prefix.pch */,
+				46EB2E000003C0 /* FGLogger.debug.xcconfig */,
+				46EB2E000003D0 /* FGLogger.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "DemoProject/Pods/Target Support Files/FGLogger";
 			sourceTree = "<group>";
 		};
-		46EB2E00000470 /* Pods-DemoProject */ = {
+		46EB2E00000490 /* Pods-DemoProject */ = {
 			isa = PBXGroup;
 			children = (
-				46EB2E000004B0 /* Pods-DemoProject-acknowledgements.markdown */,
-				46EB2E000004A0 /* Pods-DemoProject-acknowledgements.plist */,
-				46EB2E000004C0 /* Pods-DemoProject-dummy.m */,
-				46EB2E00000490 /* Pods-DemoProject.debug.xcconfig */,
-				46EB2E00000480 /* Pods-DemoProject.release.xcconfig */,
+				46EB2E000004D0 /* Pods-DemoProject-acknowledgements.markdown */,
+				46EB2E000004C0 /* Pods-DemoProject-acknowledgements.plist */,
+				46EB2E000004E0 /* Pods-DemoProject-dummy.m */,
+				46EB2E000004B0 /* Pods-DemoProject.debug.xcconfig */,
+				46EB2E000004A0 /* Pods-DemoProject.release.xcconfig */,
 			);
 			name = "Pods-DemoProject";
 			path = "Target Support Files/Pods-DemoProject";
@@ -210,22 +212,22 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		46EB2E00000260 /* Headers */ = {
+		46EB2E00000280 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46EB2E00000320 /* FGFileContext.h in Headers */,
-				46EB2E00000310 /* FGLog.h in Headers */,
-				46EB2E00000350 /* FGLogger.h in Headers */,
-				46EB2E00000360 /* FGLoggerComponent.h in Headers */,
-				46EB2E00000330 /* FGPrintFolderViewController.h in Headers */,
-				46EB2E00000340 /* FGPrintLogViewController.h in Headers */,
-				46EB2E00000370 /* FGSingleRunLogger.h in Headers */,
-				46EB2E00000380 /* FGTTYLogger.h in Headers */,
+				46EB2E00000300 /* FGFileContext.h in Headers */,
+				46EB2E000002C0 /* FGLog.h in Headers */,
+				46EB2E00000370 /* FGLogger.h in Headers */,
+				46EB2E00000380 /* FGLoggerComponent.h in Headers */,
+				46EB2E00000310 /* FGPrintFolderViewController.h in Headers */,
+				46EB2E00000320 /* FGPrintLogViewController.h in Headers */,
+				46EB2E00000390 /* FGSingleRunLogger.h in Headers */,
+				46EB2E000003A0 /* FGTTYLogger.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		46EB2E00000440 /* Headers */ = {
+		46EB2E00000460 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -237,16 +239,16 @@
 /* Begin PBXNativeTarget section */
 		2443674F756B3314267E7AD76BC62FF2 /* Pods-DemoProject */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 46EB2E00000400 /* Build configuration list for PBXNativeTarget "Pods-DemoProject" */;
+			buildConfigurationList = 46EB2E00000420 /* Build configuration list for PBXNativeTarget "Pods-DemoProject" */;
 			buildPhases = (
-				46EB2E00000440 /* Headers */,
-				46EB2E00000450 /* Sources */,
-				46EB2E00000460 /* Frameworks */,
+				46EB2E00000460 /* Headers */,
+				46EB2E00000470 /* Sources */,
+				46EB2E00000480 /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				46EB2E000004F0 /* PBXTargetDependency */,
+				46EB2E00000510 /* PBXTargetDependency */,
 			);
 			name = "Pods-DemoProject";
 			productName = "Pods-DemoProject";
@@ -255,11 +257,11 @@
 		};
 		9BC7CEEDBFD167112475E80A6EF2CB84 /* FGLogger */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 46EB2E00000220 /* Build configuration list for PBXNativeTarget "FGLogger" */;
+			buildConfigurationList = 46EB2E00000240 /* Build configuration list for PBXNativeTarget "FGLogger" */;
 			buildPhases = (
-				46EB2E00000260 /* Headers */,
-				46EB2E00000270 /* Sources */,
-				46EB2E00000280 /* Frameworks */,
+				46EB2E00000280 /* Headers */,
+				46EB2E00000290 /* Sources */,
+				46EB2E000002A0 /* Frameworks */,
 			);
 			buildRules = (
 			);
@@ -299,38 +301,38 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		46EB2E00000270 /* Sources */ = {
+		46EB2E00000290 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46EB2E000002A0 /* FGFileContext.m in Sources */,
-				46EB2E00000290 /* FGLog.m in Sources */,
-				46EB2E000003E0 /* FGLogger-dummy.m in Sources */,
-				46EB2E000002D0 /* FGLogger.m in Sources */,
-				46EB2E000002E0 /* FGLoggerComponent.m in Sources */,
-				46EB2E000002B0 /* FGPrintFolderViewController.m in Sources */,
-				46EB2E000002C0 /* FGPrintLogViewController.m in Sources */,
-				46EB2E000002F0 /* FGSingleRunLogger.m in Sources */,
-				46EB2E00000300 /* FGTTYLogger.m in Sources */,
+				46EB2E000002D0 /* FGFileContext.m in Sources */,
+				46EB2E000002B0 /* FGLog.m in Sources */,
+				46EB2E00000400 /* FGLogger-dummy.m in Sources */,
+				46EB2E00000330 /* FGLogger.m in Sources */,
+				46EB2E00000340 /* FGLoggerComponent.m in Sources */,
+				46EB2E000002E0 /* FGPrintFolderViewController.m in Sources */,
+				46EB2E000002F0 /* FGPrintLogViewController.m in Sources */,
+				46EB2E00000350 /* FGSingleRunLogger.m in Sources */,
+				46EB2E00000360 /* FGTTYLogger.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		46EB2E00000450 /* Sources */ = {
+		46EB2E00000470 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46EB2E000004D0 /* Pods-DemoProject-dummy.m in Sources */,
+				46EB2E000004F0 /* Pods-DemoProject-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		46EB2E000004F0 /* PBXTargetDependency */ = {
+		46EB2E00000510 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = FGLogger;
 			target = 9BC7CEEDBFD167112475E80A6EF2CB84 /* FGLogger */;
-			targetProxy = 46EB2E000004E0 /* PBXContainerItemProxy */;
+			targetProxy = 46EB2E00000500 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -459,9 +461,9 @@
 			};
 			name = Release;
 		};
-		46EB2E00000230 /* Release */ = {
+		46EB2E00000250 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E000003B0 /* FGLogger.release.xcconfig */;
+			baseConfigurationReference = 46EB2E000003D0 /* FGLogger.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -483,9 +485,9 @@
 			};
 			name = Release;
 		};
-		46EB2E00000240 /* Debug */ = {
+		46EB2E00000260 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E000003A0 /* FGLogger.debug.xcconfig */;
+			baseConfigurationReference = 46EB2E000003C0 /* FGLogger.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -506,9 +508,9 @@
 			};
 			name = Debug;
 		};
-		46EB2E00000410 /* Release */ = {
+		46EB2E00000430 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00000480 /* Pods-DemoProject.release.xcconfig */;
+			baseConfigurationReference = 46EB2E000004A0 /* Pods-DemoProject.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -528,9 +530,9 @@
 			};
 			name = Release;
 		};
-		46EB2E00000420 /* Debug */ = {
+		46EB2E00000440 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 46EB2E00000490 /* Pods-DemoProject.debug.xcconfig */;
+			baseConfigurationReference = 46EB2E000004B0 /* Pods-DemoProject.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -561,20 +563,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46EB2E00000220 /* Build configuration list for PBXNativeTarget "FGLogger" */ = {
+		46EB2E00000240 /* Build configuration list for PBXNativeTarget "FGLogger" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46EB2E00000240 /* Debug */,
-				46EB2E00000230 /* Release */,
+				46EB2E00000260 /* Debug */,
+				46EB2E00000250 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46EB2E00000400 /* Build configuration list for PBXNativeTarget "Pods-DemoProject" */ = {
+		46EB2E00000420 /* Build configuration list for PBXNativeTarget "Pods-DemoProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46EB2E00000420 /* Debug */,
-				46EB2E00000410 /* Release */,
+				46EB2E00000440 /* Debug */,
+				46EB2E00000430 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
